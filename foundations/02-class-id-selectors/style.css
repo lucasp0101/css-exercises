@@ -1,0 +1,20 @@
+.c1 {
+    background-color: pink;
+    font-size: 20px;
+}
+
+.c2 {
+    background-color: pink;
+    font-size: 40px;
+}
+
+#id1 {
+    font-size: 50px;
+    color: blue
+}
+
+#id2 {
+    font-size: 35px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
