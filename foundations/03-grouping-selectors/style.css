@@ -1,0 +1,15 @@
+#id1,
+#id2 {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+#id1 {
+    color: white;
+    background-color: black;
+}
+
+#id2 {
+    color: black;
+    background-color: yellow;
+}
